@@ -4,4 +4,4 @@ sfdx force:user:password:generate
 sfdx force:org:open
 
 # Install Streaming Monitor
-sfdx force:package:install --package 04t1t000003DLAQAA4 -w 2
+sfdx force:package:install --package 04t1t000003DLAQAA4 -w 10
