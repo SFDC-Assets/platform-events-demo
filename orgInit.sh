@@ -4,4 +4,4 @@ sfdx shane:user:password:set -g User -l User -p salesforce1
 sfdx force:org:open
 
 # Install Streaming Monitor
-sfdx force:package:install --package 04t1t000003DLAQAA4 -w 10
+sfdx force:package:install --package 04t1t000003Po3QAAS -w 10
